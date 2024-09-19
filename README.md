@@ -1,5 +1,4 @@
-`# Python FastAPI Project` 
-`This is a Geofence-CRUD-API Python project.` 
+# Python FastAPI Project for Geofence CRUD APIs 
 
 Steps:
 1. Checkout the codebase 
